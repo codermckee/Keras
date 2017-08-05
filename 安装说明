@@ -2,3 +2,4 @@
 2. 输入conda install mingw libpython
 3.再输入 pip install keras
 4. 在spyder里面import试试
+*会报错：No module named tensorflow，此时应该在keras.json中将该tensorflow手动改成theano
